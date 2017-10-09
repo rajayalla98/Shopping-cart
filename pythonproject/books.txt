@@ -1,0 +1,37 @@
+1.Psychology of Success in IIT JEE,1200,3,52,Anuj Khare
+2.Mathematics for IIT-JEE,1400,4.3,12,Er. Sanjiva Dayal
+3.JEE Advanced Explorer 2017,523,5,02,Anil Ahlawat
+4.Everything you need to know to Crack JEE MAINS & ADVANCED,154,4,35,Anmol Goyal
+5.The Personal MBA,789,3,45,Josh Kaufman
+6.The Ten-Day MBA 4th Ed,452,3.2,23,Steven A. Silbiger
+7.Complete MBA For Dummies,685,4.8,67,Kathleen Allen and Peter Economy
+8.The Wall Street MBA,256,5,102,Reuben Advani
+9.MBA: 10 instant MBA lessons,485,3.2,56,Infinite Ideas and Nicholas Bate
+10.16 Years' Solved Papers 2001-2016:AIMS,150,4.6,42,Dr Hoe Bing Lo
+11.Robbins Basic Pathology:AIMS,365,2.3,25,Vinay Kumar
+1.The Impossible Rescue,895,4.6,125,Martin W. Sandler
+2.1000 Ultimate Adventures,789,2.3,450,Lonely Planet
+3.AWOL on the Appalachian Trail,725,3.9,4,David Miller
+4.LEGEND of the DAWN,754,4.3,5,J. R. Wright
+5.Into Africa: The Epic Adventures of Stanley and Livingstone,1500,3.2,89,Martin Dugard
+6.Dark Mountain (The David Wolf Series Book 10),450,4.8,36,Jeff Carson
+1.Batman vs. Superman: The Greatest Battles,392,4,20,various
+2.Marvel Encyclopedia Hardcover – 3 Mar 2014,1145,5,50,DK
+3.The Jungle Book: The Graphic Novel (Campfire Graphic Novels),227,4,34, Dan Johnson
+4.Ben10 Comic - Vol. 1,75,5,12,CN
+5.Three Men in a Boat: The Graphic Novel (Campfire Graphic Novels),173,4.3,100,nidhi verma
+6.Best of Tinkle Digest(1980-2008):,630,3,3,shreya ghate
+7.The Invisible Man,172,4,7,HG WELLS
+8.The Best of Archie Comics: ,582,5,12,Archie super stars
+9.Marvel: The Amazing Spider-Man Story Collection,156,4,9,NILL
+10.The Dusk Society (Original),187,3.5,4,Sidney Williams
+1.You are the Best Wife: A True Love Story,87,4.2,1,Ajay k panday
+2.Love Story,118,4,45,Erich Segal
+3.Some Love Stories Never Die... (Uff Ye Emotions),120,4.2,6,vinit k Bansal
+4.2 States the Story of My Marriage,99,4.1,50,Chetan Bhagat
+5.Love Heals Everything,150,4.1,3,akansh malik
+6.Half Girlfriend,120,4,20,cheatan Bhagat
+7.Can Love Happen Twice?,46,4.5,21,ravindar singh
+8.In a Blink of an Eye,199,4.1,2,Aditya Nighot
+9.The Purpose of You in this World is for Me,75,5,5,santosh Deshpandae
+10.Life Inside the Mirror: Love Has its Own Way to Reach Toward the Destination,199,5,30,imusti

@@ -1,0 +1,70 @@
+1.Apple iphone7 plus (32GB-Black),72000,4.3,98
+2.One Plus 3,30000,4.4,50
+3.Moto G Plus 4th Gen (Black-32 GB),15000,3.8,8
+4.Samsung Galaxy A7 SM-A710FZDFINS (Gold),25895,4.2,23
+5.Sony Xperia XZ Dual (Forest Blue),47000,4,5
+6.Samsung Galaxy S6 Edge (Black Sapphire 32GB),49345,3,4
+7.Blackberry Porsche Design P'9982 (Silver-64GB),79999,2.5,2
+8.Apple iPhone 7 (Silver-256GB),71460,4,10
+9.Redmi Note 4 (Dark Grey-64 GB),12999,4.4,12
+10.Redmi Note 4 (gold-64 GB),12999,4.4,12
+11.Redmi Note 4 (golden blue-64 GB),12999,4.4,12
+12.Redmi Note 3 (Dark Grey-32 GB),11999,4.6,1
+13.Redmi Note 3 (Dark gold-32 GB),11999,4.6,2
+14.Mi 5 (White-32 GB),22999,4.3,5
+15.LeEco Le 2 (Grey-32 GB),11999,4,4
+16.LeEco Le 2 x526 (Rose Gold-64 GB),15790,3.7,20
+1.Samsung 140 cm (55 inches) UA55KS9000KLXL-BF 4K Ultra HD LED TV,262500,3.5,10
+2.Samsung 65KS9000 ( 65 Inches ) SUHD 4K Curved Smart Led TV,310340,2.5,10
+3.Sony BRAVIA KD-55X8500C 138.8 cm (55) 4K (Ultra HD) Smart 3D LED TV,200000,2.5,13
+4.LG OLED55B6T 139.7 cm (55 inches) 4k Ultra Smart HD LED TV (Black),212000,3.5,12
+5.PANASONIC TH-65CX400D 4K LED TV,139333,4,20
+6.HITACHI LD50SY11A-CIW 124CM LED TV,44,900,2,13
+7.Sony Bravia KLV-22P402C 55 cm (22 inches),12990,4,30
+8.Micromax 40C3420MHD/40C4500MHD,22690,4,23
+9.LLOYD L40N 101.6 cm (40 inches) Full HD LED Television,28500,4.2,30
+10.LG 32LF560T 80 cm (32 inches) Full HD LED TV,30260,4.1,3
+11.Onida 127 cm (50 inches) Big Wave Series,42000,4,26
+1.Samsung RF28K9380SG Frost-free Side-by-Side Inverter Refrigerator,222500,2,3
+2.LG GC-M237JGNN Side-by-side Refrigerator,125200,3,5
+3.Hitachi R-W720FPND1X Side-by-Side Multi-door Refrigerator ,117000,3,10
+4.Whirlpool 230 Imfresh Roy 4S Direct-cool Single-door Refrigerator,20300,4.3,20
+5.Haier 247 Litres Double door Refrigerator HRF-2674CBD-R,20387,5,28
+6.Godrej RT Eon 260 P2.4 Frost-free Double-door Refrigerator ,20808,3,30
+7.Whirlpool Neo FR258 Roy 3S Frost-free Double-door Refrigerator ,21400,4.1,19
+8.Godrej RT Eon 240 P 2.3 Frost-free Double-door Refrigerator,22850,4,40
+9.Haier HRF-2903BS-H Top Mounted-H Frost-free Double-door Refrigerator,23799,5,39
+10.Videocon VCP314I Frost-free Double-door Refrigerator,23999,5,27
+11.Samsung RT28K3043S8 Frost-free Double-door Refrigerator ,24150,5,10
+12.Panasonic NR-BY602XS Frost-free Double-door Refrigerator,83500,3.5,2
+1.Apple MacBook Pro MLH32HN/A Laptop 2016 (Core i7-2.6GHz/16GB/256GB/MacOS Sierra/2GB Graphic/Touch Bar),184899,3,12
+2.Apple MacBook Pro MLW82HN/A Laptop 2016 (Core i7/16GB/512GB/Mac OS/Integrated Graphics/Touch Bar),222498,4,20
+3.MSI GT72VR (Corei7-7700HQ+HM175/16GB/256GB+ 1TB SATA 7200rpm/Windows 10/8GB Graphics),214700,4.2,31
+4.Lenovo ThinkPad X1 Carbon 20A80056IG Laptop Intel Core(TM) i7 256GB SSD 8 GB RAM,118000,5,12
+5.Dell Inspiron 7359 (13.3) 2-in-1 FHD Touch Core i7 6th Gen 8GB RAM 256GB SSD Windows,200000,4.3,1
+6.HP ZBook K4K37UT#ABA 17.3-Inch Laptop (Black),158498,3.6,4
+7.Microsoft Surface Pro 4 12.3-inch Laptop (Core i7/16GB/512GB/Windows 10),162690,3.5,3
+8.Dell Inspiron 3162 11.6-inch Laptop (Pentium N3700/4GB/500GB/Windows 10),40000,3,8
+9.Asus 15.6-Inch Laptop (Intel Dual Core Celeron N3050, 4GB RAM, 500GB Hard Drive),40133,3.5,2
+10.Acer America Corp. NX.MKEAA.005 11.6T C2955U 4GB 32GB Chrome,40200,3,1
+11.Lenovo Thinkpad 11E (3rd Generation) Intel N3150 Quad-Core 128GB Solid State Drive 8GB DDR3,50050,4,12
+12.Toshiba Tecra C50-C X2100 15.6-inch Laptop (Core i5-5200U/4GB/1TB/Windows 10 Home),50200,4.1,5
+13.HP 15-ab125AX 15.6-inch Laptop (AMD A10-8700P/8GB/1TB/Windows 10/),50338,4.1,8
+14.Dell Inspiron 5559 15.6-inch Laptop (Intel Core i5-6200U/8 GB/1 TB/Win 10/AMD Radeon),50890,2.5,4
+15.Acer Aspire V3 V3-574G-54VY 15.6-inch Laptop (Core i5 5200U/8GB/1TB/Windows 10 ),53600,4.2,1
+1.ennheiser HD 650 Over-Ear Headphone (Silver),56999,5,20
+2.Logitech Ultimate Ears UE 900 Noise-Isolating Earphones,42049,4.2,13
+3.Beats Solo3 Wireless On-Ear Headphones - Gold,34999,5,19
+4.Sony MDR XB30EX Earphone,29349,4.1,3
+5.iBall Winner USB V2.0 Keyboard,21499,3.4,2
+6.JBL T150A In-Ear Headphone With Mic (Black),1437,3.8,17
+7.Apple iPhone Earpods Earphones,1997,3,20
+8.Skullcandy S2PGFY-003 Smokin' Buds 2 with Mic1 Earphones,1699,4,49
+9.Philips Actionfit RunFree Wireless Bluetooth Headphones ,2589,2,32
+10.Skullcandy S2IKFY-024 Ink'd 2 Headphone - Gray/Black,7249,3.5,11
+11.JBL T250SI On-Ear Headphone (Black),1099,4,30
+12.Samsung Level In-Earbud Wired Headphones,5097,3,2
+13.House of Marley Smile Jamaica In-Ear,3299,4,5
+
+
+

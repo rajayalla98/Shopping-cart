@@ -1,0 +1,21 @@
+1.BOOKS
+2.ELECTRONICS
+3.CLOTHES
+1.STUDIES
+2.ADVENTURE
+3.COMICS
+4.LOVE
+1.Phones
+2.Telivison
+3.Refrigerators
+4.Laptops
+5.Earphones and Headphones
+1.Mens clothes
+2.Women clothes
+1.T-shirts
+2.Jean pants
+3.Track Suits
+1.chudidars
+2.sarees
+3.tshirts
+4.jean pants

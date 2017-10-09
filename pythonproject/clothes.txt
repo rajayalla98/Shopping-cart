@@ -1,0 +1,53 @@
+1.Romano Men's Full Sleeve Casual Shirt,490,3,20
+2.People Men's Casual Shirt,1099,4,12
+3.Indigo Nation Men's Casual Shirt,899,2.5,3
+4.Arrow Men's Formal Shirt,1199,3,13
+5.Colt Men's Casual Shirt,399,3,14
+6.American Crew Men's Polo Collar Polyester T-Shirt,399,3,2
+7.Levi's Men's T-Shirt,1299,3.5,5
+8.Ralph Lauren Solid Men's Polo Neck Orange T-Shirt,2999,3.5,4
+1.Won.99 Men's Slim Fit Jeans,699,4,18
+2.Trendy Trotters Men's Regular Fit Jeans,549,3.5,2
+3.Ben Martin Men's Regular Fit Jeans,649,2.9,3
+4.London Looks Mens Slim Fit ,1525,3.5,4
+5.Lee Men's Regular Fit Jeans,959,4,2
+6.Tommy Hilfiger Men's Trim Fit Flat Front Pant 30X32,3429,4,3
+7.Lee Cooper Men's Straight Fit Jeans,3041,5,5
+8.Nike EM AS Batsmen Pant,999,4,2
+1.ADIDAS TRACKSUIT-BLUE,2999,3,2
+2.Lacoste Men's Sport Performance Track Pant,10833,4,2
+3.Jockey Men's Cotton Track Pants,889,3.5,2
+4.Adidas Black Polyester Tracksuit For men,2599,4.1,12
+5.Diesel Ybo B SP2 track Pants Denim,10010,3,1
+6.Armani  Men's Fleece Logo Sweatpant,4023,4.3,2
+1.Clickedia Women's Net and Satin Flower Print Anarkali Dress,649,3,5
+2.Vaamsi Women's Salwar Suit ,720,4,2
+3.Vibes Women Georgette Patch Work Unstitched Salwar ,1139,4.1,3
+4.Ethnic Basket Cream Semi Stitched Net Anarkali Salwar Suit,1654,3.5,2
+5.Vaankosh Fashion New Attective Pink Banglori Anarkali Style ,1020,1.5,6
+6.Mrig Women's Faux Georgette Unstitched Anarkali Dress ,399,2.5,1
+7.Livaaz Womens Georgette Anarkali Unstitched Dress ,799,3,10
+8.Paheli Women's Georgette Unstitched Dress Material ,699,4.2,13
+1.Kanha Fashion Women's Silk & Georgette Saree ,1280,3.2,3
+2.Akk Enterprise Women's Georgette Saree ,399,4,21
+3.Venisa Women's Cotton Saree ,1299,4.1,4
+4.Janasya women's Green Colour Chiffon saree,1149,4,1
+5.Muta Fashions Women's Cotton Silk Saree,850,3,2
+6.Surat Tex Women's Net Saree ,789,999,4,1
+7.Janasya Women's Chiffon Saree ,699,2,13
+1.Colt women's Casual Shirt,399,3,14
+2.American Crew women's Polo Collar Polyester T-Shirt,399,3,2
+3.Levi's women's T-Shirt,1299,3.5,5
+4.Ralph Lauren Solid women's Polo Neck Orange T-Shirt,2999,3.5,4
+5.Romano women's Full Sleeve Casual Shirt,490,3,20
+6.People women's Casual Shirt,1099,4,12
+7.Indigo Nation women's Casual Shirt,899,2.5,3
+8.Arrow women's Formal Shirt,1199,3,13
+1.Won.99 women's Slim Fit Jeans,699,4,18
+2.Trendy Trotters women's Regular Fit Jeans,549,3.5,2
+3.Ben Martin women's Regular Fit Jeans,649,2.9,3
+4.London Looks womens Slim Fit ,1525,3.5,4
+5.Lee women's Regular Fit Jeans,959,4,2
+6.Tommy Hilfiger women's Trim Fit Flat Front Pant 30X32,3429,4,3
+7.Lee Cooper women's Straight Fit Jeans,3041,5,5
+8.Nike EM AS Batswomen Pant,999,4,2
